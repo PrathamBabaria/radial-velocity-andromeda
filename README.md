@@ -1,2 +1,3 @@
 # radial-velocity-andromeda
-Analyzing and plotting spectra and measuring star velocities in Andromeda. 
+#This code analyzes and plots spectra by measuring star velocities in Andromeda. 
+
